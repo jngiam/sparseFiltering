@@ -3,6 +3,12 @@ Sparse Filtering
 * Trains using minFunc
 * Dataset available at http://cs.stanford.edu/~jngiam/data/patches.mat
 
+Cloning (read-only)
+===========
+git clone --recursive git://github.com/jngiam/sparseFiltering.git
+
+(use recursive due to the presence of submodules)
+
 Quick Start
 ===========
 
