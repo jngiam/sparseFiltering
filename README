@@ -1,0 +1,16 @@
+Sparse Filtering 
+
+* Trains using minFunc
+* Dataset available at http://cs.stanford.edu/~jngiam/data/patches.mat
+
+Quick Start
+===========
+
+Run "runExample" in Matlab
+
+
+Notes
+=====
+
+* Trains a 2 layer network!
+
